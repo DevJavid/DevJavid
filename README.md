@@ -7,6 +7,6 @@
 - 🔭 I’m currently working on some programs.
 - 🌱 I’m currently learning html, css, javascript and other.
 
-📍 Currently base at: Sakarya, Turkey
+  📍 Currently base at: Sakarya, Turkey
 
 - Connect with me 
