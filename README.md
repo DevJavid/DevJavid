@@ -9,4 +9,4 @@
 
 📍 Currently base at: Sakarya, Turkey
 
-Connect with me 
+- Connect with me 
