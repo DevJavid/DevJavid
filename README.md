@@ -1,4 +1,4 @@
-### Hi there, I'm Cavid 👋
+### Hi there, welcome to my profil I'm Cavid 👋
 
 ## I am a Frontend Developer. I love coding, writing, speaking and traveling.
 
