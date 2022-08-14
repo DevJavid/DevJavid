@@ -1,12 +1,11 @@
-### Hi there, welcome to my profil I'm Cavid 👋
+### Hi there, welcome to my github profile. My name is Cavid 👋
 
-## I am a Frontend Developer. I love coding, writing, speaking and traveling.
+## I am a junior Frontend Developer. I love everything 😄
 
-## Glad to see you here! 😊
-
-- 🔭 I’m currently working on some programs.
-- 🌱 I’m currently learning html, css, javascript and react.
+- I’m currently learning html, css, javascript and react js.
+- I'm currently working on clone projects.
+- My mentor in my software journey -> uurtech
 
  📍 Currently base at: Baku, Azerbaijan
 
-- Connect with me 
+- Connect with me => cavidfhuseyinzade@gmail.com
