@@ -4,7 +4,7 @@
 
 - I’m currently learning html, css, javascript and react js.
 - I'm currently working on clone projects.
-- My mentor in my software journey -> uurtech
+- My mentor in my software journey -> @uurtech
 
  📍 Currently base at: Baku, Azerbaijan
 
